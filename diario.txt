@@ -1,0 +1,15 @@
+Historial de avances y de cosas que experimentamos.
+----------
+29/01/2026
+Tuvimos problemas al momento de querer trabajar remotamente, debido a que la extensión de live share de Visual studio code ya no funciona en editor a tiempor real, por lo cual al momento de trabajar en llamada no era para nada cómodo.
+Probamos con google collab y el mismo problema tuvimos, no se registraban los cambios a tiempo real por lo cual era incomodo.
+Finalmente encontramos una solución la cual es mediante JupyterLab y el programa RadminVPN para simular una conexión en LAN y poder editar a tiempo real, lo cual funcionó bastante bien. De seguro este será el formato en el cuál trabajaremos.
+Se revisó la documentación del trabajo más las clases para orientarnos al momento de trabajar, vimos los dos primeros puntos del trabajo pero tenemos que ver bien algúnas dudas que tenemos. Para más detalle por favor leer el Commit.
+
+
+Tiempo trabajado en este dia fue de aproximadamente 3 horas 30 minutos.
+
+----------
+XX/0X/2026
+
+
